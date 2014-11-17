@@ -102,7 +102,7 @@ __double underscores__```
 Use the `printf()`function
 ##图片
 行内式  
-`![Alt text](/path/to/img.jpg)`
+`![Alt text](/path/to/img.jpg)`   
 `![Alt text](/path/to/img.jpg "Optional title")`  
 参考式  
 `![Alt text][id]`  
