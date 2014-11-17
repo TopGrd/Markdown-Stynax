@@ -104,6 +104,8 @@ Use the `printf()`function
 行内式  
 `![Alt text](/path/to/img.jpg)`   
 `![Alt text](/path/to/img.jpg "Optional title")`  
+例  
+![photo](http://topgrd.me/assets/themes/Snail/img/avatar.jpg)  
 参考式  
 `![Alt text][id]`  
 id的定义  
